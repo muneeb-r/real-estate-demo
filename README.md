@@ -2,6 +2,11 @@
 
 A responsive React + TypeScript application for browsing real estate properties with filtering, sorting, and detailed property views.
 
+## Demo
+
+https://github.com/user-attachments/assets/06846a65-7471-483d-845f-4c1109730eec
+
+
 ## Features
 
 - **Property Listings**: Display properties in a responsive grid layout
