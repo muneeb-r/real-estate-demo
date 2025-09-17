@@ -127,17 +127,17 @@ Given more time, I would implement:
 
 ## Development Time
 
-This project was completed in approximately **4 hours**, focusing on:
+This project was completed in approximately **3 hours**, focusing on:
 
-**Core Features (2 hours):**
+**Core Features (1.5 hours):**
 - ⏰ 15 minutes: Project setup and TypeScript configuration
-- ⏰ 60 minutes: Component development and functionality
-- ⏰ 30 minutes: Styling and responsive design
-- ⏰ 15 minutes: Testing, refinement, and documentation
+- ⏰ 45 minutes: Component development and functionality
+- ⏰ 20 minutes: Styling and responsive design
+- ⏰ 10 minutes: Testing, refinement, and documentation
 
-**Bonus Features (1 hour):**
-- ⏰ 30 minutes: Price chart integration with Recharts
-- ⏰ 30 minutes: Interactive map with React Leaflet
+**Bonus Features (40 mins):**
+- ⏰ 20 minutes: Price chart integration with Recharts
+- ⏰ 20 minutes: Interactive map with React Leaflet
 
 ## Satisfaction Level: 10/10
 
