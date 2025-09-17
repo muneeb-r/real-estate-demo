@@ -34,12 +34,12 @@ A responsive React + TypeScript application for browsing real estate properties 
 
 1. **Install dependencies:**
    ```bash
-   npm install
+   yarn
    ```
 
 2. **Start the development server:**
    ```bash
-   npm run dev
+   yarn run dev
    ```
 
 3. **Open your browser and navigate to:** `http://localhost:5173`
@@ -124,11 +124,11 @@ Given more time, I would implement:
 
 This project was completed in approximately **4 hours**, focusing on:
 
-**Core Features (3 hours):**
-- ⏰ 45 minutes: Project setup and TypeScript configuration
-- ⏰ 90 minutes: Component development and functionality
-- ⏰ 45 minutes: Styling and responsive design
-- ⏰ 30 minutes: Testing, refinement, and documentation
+**Core Features (2 hours):**
+- ⏰ 15 minutes: Project setup and TypeScript configuration
+- ⏰ 60 minutes: Component development and functionality
+- ⏰ 30 minutes: Styling and responsive design
+- ⏰ 15 minutes: Testing, refinement, and documentation
 
 **Bonus Features (1 hour):**
 - ⏰ 30 minutes: Price chart integration with Recharts
