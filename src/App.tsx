@@ -4,7 +4,7 @@ import PropertyList from './pages/PropertyList';
 import PropertyDetails from './pages/PropertyDetails';
 import './App.css';
 
-const App = () => {
+const App: React.FC = () => {
   return (
     <Router>
       <div className="app">
